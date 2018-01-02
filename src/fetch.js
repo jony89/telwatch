@@ -8,6 +8,7 @@ const report = {
     totalCurrentlyParking: undefined,
     totalAutotelParkingSpaces: undefined,
     totalCurrentlyBlueWhiteParking: undefined,
+    totalCurrentlyInUse: undefined,
     totalCars: 260,
 };
 
@@ -110,6 +111,7 @@ function fetchAutotel() {
         report.totalCurrentlyBlueWhiteParking = getTotalBlueWhiteParkingCars(response.cars);
         report.totalAutotelParkingSpaces = getTotalAutotelParkingSpaces(response.cars);
         report.totalCurrentlyParking = report.totalAutotelParkingSpaces + report.totalCurrentlyBlueWhiteParking;
+        report.totalCurrentlyInUse = report.totalCars - report.totalCurrentlyParking;
         report.time = getCurrentFullDate();
 
         const cars = response.cars.map(mapCarData);
