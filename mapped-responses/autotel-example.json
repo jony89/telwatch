@@ -1,0 +1,3714 @@
+[
+  {
+    "latitude": 32.084952,
+    "longitude": 34.784056,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ארלוזורוב 93-91, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.086838,
+    "longitude": 34.78117,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "עמנואל הרומי 16, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      184
+    ]
+  },
+  {
+    "latitude": 32.086521,
+    "longitude": 34.779746,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "יהושע בן נון 8, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.083,
+    "longitude": 34.7806,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הדסה 17 ",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.082109,
+    "longitude": 34.781687,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "רמברנדט 4, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.085268,
+    "longitude": 34.777064,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מאנגר 1, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      119
+    ]
+  },
+  {
+    "latitude": 32.087613,
+    "longitude": 34.784496,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ז'בוטינסקי 104, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.08365,
+    "longitude": 34.785349,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "בארי 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.083175,
+    "longitude": 34.776552,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שדרות בן גוריון 66, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.088814,
+    "longitude": 34.777784,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ז'בוטינסקי 48, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      194
+    ]
+  },
+  {
+    "latitude": 32.089715,
+    "longitude": 34.779953,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "בזל 42, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      247
+    ]
+  },
+  {
+    "latitude": 32.080738,
+    "longitude": 34.77968,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "גורדון 85, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.081844,
+    "longitude": 34.777613,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שלמה המלך 67, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      163
+    ]
+  },
+  {
+    "latitude": 32.08437,
+    "longitude": 34.774964,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שדרות בן גוריון 55, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.089229,
+    "longitude": 34.786514,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רמז 36, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      181
+    ]
+  },
+  {
+    "latitude": 32.086848,
+    "longitude": 34.788229,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ה' באייר 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.08393,
+    "longitude": 34.78834,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ארלוזורוב 119, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      18
+    ]
+  },
+  {
+    "latitude": 32.09019,
+    "longitude": 34.778027,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "סוקולוב 44, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.090151,
+    "longitude": 34.783455,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "פרופ' שור 3, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      215
+    ]
+  },
+  {
+    "latitude": 32.091512,
+    "longitude": 34.783599,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מרים החשמונאית 3, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      227
+    ]
+  },
+  {
+    "latitude": 32.079135,
+    "longitude": 34.779073,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שדרות מסריק 21, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.088379,
+    "longitude": 34.775111,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דיזנגוף 209, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      17
+    ]
+  },
+  {
+    "latitude": 32.079074,
+    "longitude": 34.783401,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "דובנוב 26, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.080102,
+    "longitude": 34.785962,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שדרות דוד המלך 41, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      173
+    ]
+  },
+  {
+    "latitude": 32.0919,
+    "longitude": 34.7822,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שדרות נורדאו 99, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      41
+    ]
+  },
+  {
+    "latitude": 32.08855,
+    "longitude": 34.788687,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ליפסקי 6, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.081438,
+    "longitude": 34.776281,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שפינוזה 21, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.081666,
+    "longitude": 34.774062,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "גורדון 44, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.079462,
+    "longitude": 34.776901,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שלמה המלך 41, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.080572,
+    "longitude": 34.788038,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "פומבדיתא 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.084926,
+    "longitude": 34.773751,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "גרץ 2, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      9
+    ]
+  },
+  {
+    "latitude": 32.0809,
+    "longitude": 34.7887,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ויצמן‬‎ 56, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.07837,
+    "longitude": 34.78253,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "מאנה 23, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0809,
+    "longitude": 34.7887,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "וייצמן 15, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0792,
+    "longitude": 34.7888,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ויצמן‬‎ 5-7, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.086678,
+    "longitude": 34.791337,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ה' באייר 38, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.087199,
+    "longitude": 34.772954,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ארלוזורוב 14, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      265
+    ]
+  },
+  {
+    "latitude": 32.093315,
+    "longitude": 34.784909,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "דה האז 10-8, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.089591,
+    "longitude": 34.773092,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ז'בוטינסקי 8, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.079825,
+    "longitude": 34.77445,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ישראל'ס 1, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.077777,
+    "longitude": 34.778636,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "נצח ישראל 6, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.083968,
+    "longitude": 34.771001,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "רופין 39, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.09468,
+    "longitude": 34.781847,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שמעון התרסי 33, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      241
+    ]
+  },
+  {
+    "latitude": 32.093871,
+    "longitude": 34.785879,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "יוחנן הגדי 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.081213,
+    "longitude": 34.79171,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הנרייטה סולד 17, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      85
+    ]
+  },
+  {
+    "latitude": 32.0882,
+    "longitude": 34.7714,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הירקון 200, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.083266,
+    "longitude": 34.791986,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הלסינקי 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.087458,
+    "longitude": 34.771417,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הירקון 188, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.092356,
+    "longitude": 34.774966,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "נורדאו 20, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.093463,
+    "longitude": 34.778592,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "עמוס 2, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      171
+    ]
+  },
+  {
+    "latitude": 32.091177,
+    "longitude": 34.790288,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "פנקס 55, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.093777,
+    "longitude": 34.783564,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "יהודה המכבי 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.076339,
+    "longitude": 34.78686,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שאול המלך 25, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      94
+    ]
+  },
+  {
+    "latitude": 32.09511,
+    "longitude": 34.77792,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ירמיהו 45, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.077176,
+    "longitude": 34.789311,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שאול המלך 31, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.07896,
+    "longitude": 34.773268,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "פרוג 8, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.075822,
+    "longitude": 34.785168,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שאול המלך 19, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.075488,
+    "longitude": 34.779795,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שדרות ח\"ן 17, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.083389,
+    "longitude": 34.769872,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ארנון 1, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.076125,
+    "longitude": 34.776436,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "בר גיורא 27",
+    "availableCars": 1,
+    "carsList": [
+      253
+    ]
+  },
+  {
+    "latitude": 32.094346,
+    "longitude": 34.776588,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דיזנגוף 261, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      220
+    ]
+  },
+  {
+    "latitude": 32.082191,
+    "longitude": 34.771216,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "גורדון 24, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      191,
+      242
+    ]
+  },
+  {
+    "latitude": 32.091821,
+    "longitude": 34.773057,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הירקון 248, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.094177,
+    "longitude": 34.775399,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "מיכה 21, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.07947,
+    "longitude": 34.770709,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "סירקין 28, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      72,
+      87
+    ]
+  },
+  {
+    "latitude": 32.08829,
+    "longitude": 34.794266,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "אהבת ציון 23, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.093232,
+    "longitude": 34.791399,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "רב צעיר 12, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.080018,
+    "longitude": 34.76889,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "פרישמן 9, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      131,
+      270
+    ]
+  },
+  {
+    "latitude": 32.07669,
+    "longitude": 34.772553,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דרויאנוב 11, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      198
+    ]
+  },
+  {
+    "latitude": 32.080801,
+    "longitude": 34.768594,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הירקון 114, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0736,
+    "longitude": 34.7843,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "קפלן 17",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.074877,
+    "longitude": 34.773515,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "טשרניחובסקי 36, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      89
+    ]
+  },
+  {
+    "latitude": 32.09603,
+    "longitude": 34.78955,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "בני דן 48, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      135
+    ]
+  },
+  {
+    "latitude": 32.072447,
+    "longitude": 34.784033,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שפרינצק 23, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.09727,
+    "longitude": 34.77644,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "אוסישקין 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.095524,
+    "longitude": 34.773635,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הושע 23, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.073391,
+    "longitude": 34.778651,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חיסין 29, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.076217,
+    "longitude": 34.771447,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "צפת 2",
+    "availableCars": 1,
+    "carsList": [
+      269
+    ]
+  },
+  {
+    "latitude": 32.0849,
+    "longitude": 34.7966,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון חנה וסע ארלוזורוב, על פרשת דרכים, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0966,
+    "longitude": 34.7738,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "נמל תל-אביב 40",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.098603,
+    "longitude": 34.778565,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון פתוח רידינג - רוקח 7 - (ליד הכניסה בצד שמאל)",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0887,
+    "longitude": 34.7969,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "אלוני ניסים 8 ",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.09626,
+    "longitude": 34.79129,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "בני דן 60, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      69
+    ]
+  },
+  {
+    "latitude": 32.095042,
+    "longitude": 34.792425,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ועידת קטוביץ' 42, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.096128,
+    "longitude": 34.790745,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "בני דן 54, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      235
+    ]
+  },
+  {
+    "latitude": 32.070695,
+    "longitude": 34.781803,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "יהודה הלוי 112, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0986,
+    "longitude": 34.7884,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון אחוזות החוף - חניון הספורטק",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.072235,
+    "longitude": 34.774545,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "בורוכוב 3, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0989,
+    "longitude": 34.778,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון רידינג - ליד הגשר",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.09976,
+    "longitude": 34.783898,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "בוני העיר 8, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.099643,
+    "longitude": 34.785669,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מאיר יערי 9, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      99
+    ]
+  },
+  {
+    "latitude": 32.071247,
+    "longitude": 34.779381,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ברדצבסקי 2",
+    "availableCars": 1,
+    "carsList": [
+      129
+    ]
+  },
+  {
+    "latitude": 32.099246,
+    "longitude": 34.781252,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון פתוח רידינג מזרח – רוקח 15 (בית הלוויות)",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.073063,
+    "longitude": 34.771625,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "טשרניחובסקי 31, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.072,
+    "longitude": 34.7911,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שפע טל 11, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      5
+    ]
+  },
+  {
+    "latitude": 32.078621,
+    "longitude": 34.797969,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "יגאל אלון 166, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.07729,
+    "longitude": 34.76644,
+    "capacity": 3,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הרברט סמואל 90",
+    "availableCars": 1,
+    "carsList": [
+      197
+    ]
+  },
+  {
+    "latitude": 32.076318,
+    "longitude": 34.767295,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שלום עליכם 6, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.070599,
+    "longitude": 34.776225,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "מלצ'ט 35, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.10094,
+    "longitude": 34.7801,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שלמה אבן גבירול, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      254
+    ]
+  },
+  {
+    "latitude": 32.074095,
+    "longitude": 34.769072,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אידלסון 17, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      38,
+      201
+    ]
+  },
+  {
+    "latitude": 32.068993,
+    "longitude": 34.782176,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "סעדיה גאון 35, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.075637,
+    "longitude": 34.766552,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הירקון 61, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      223
+    ]
+  },
+  {
+    "latitude": 32.094078,
+    "longitude": 34.797639,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "יוסף פעמוני 3, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.096792,
+    "longitude": 34.797362,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "סנהדרין 14, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      224
+    ]
+  },
+  {
+    "latitude": 32.074684,
+    "longitude": 34.798119,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "נחלת יצחק 19, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.069539,
+    "longitude": 34.773371,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יוחנן הסנדלר 13, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      107
+    ]
+  },
+  {
+    "latitude": 32.068638,
+    "longitude": 34.777958,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רוטשילד 103, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      146
+    ]
+  },
+  {
+    "latitude": 32.07005,
+    "longitude": 34.772739,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "מרכז בעלי מלאכה 15, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.094614,
+    "longitude": 34.798612,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "בבלי 18, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.073687,
+    "longitude": 34.765448,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "אלנבי 1, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.06855,
+    "longitude": 34.78823,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שונצינו 29, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.1021,
+    "longitude": 34.7892,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "לוי אשכול 17-19, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      196
+    ]
+  },
+  {
+    "latitude": 32.06901,
+    "longitude": 34.77171,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ברנר 11-13, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      139
+    ]
+  },
+  {
+    "latitude": 32.1017,
+    "longitude": 34.7917,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "מאוריציו ויטלה 9, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0755,
+    "longitude": 34.8014,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "עמק ברכה 43, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.10421,
+    "longitude": 34.78159,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רחבעם זאבי גנדי, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      256
+    ]
+  },
+  {
+    "latitude": 32.070423,
+    "longitude": 34.794824,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "האומנים 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.069815,
+    "longitude": 34.795398,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הסוללים 5, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.06645,
+    "longitude": 34.786325,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "המלאכה 7",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.066739,
+    "longitude": 34.782168,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "לינקולן 11",
+    "availableCars": 1,
+    "carsList": [
+      67
+    ]
+  },
+  {
+    "latitude": 32.07067,
+    "longitude": 34.76843,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "האר\\\"י 5, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      250
+    ]
+  },
+  {
+    "latitude": 32.098032,
+    "longitude": 34.798089,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הרב קוסובסקי 34, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      71,
+      189
+    ]
+  },
+  {
+    "latitude": 32.066829,
+    "longitude": 34.783039,
+    "capacity": 1,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "צקלג 8, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      199
+    ]
+  },
+  {
+    "latitude": 32.066954,
+    "longitude": 34.772503,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יבנה 3, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      128,
+      167
+    ]
+  },
+  {
+    "latitude": 32.065732,
+    "longitude": 34.776003,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אחד העם 45, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      98
+    ]
+  },
+  {
+    "latitude": 32.065721,
+    "longitude": 34.776917,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שדרות רוטשילד 71, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      166
+    ]
+  },
+  {
+    "latitude": 32.069777,
+    "longitude": 34.766401,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הכובשים 41, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      82,
+      177
+    ]
+  },
+  {
+    "latitude": 32.1049,
+    "longitude": 34.7892,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יעקב אפטר 2, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      237
+    ]
+  },
+  {
+    "latitude": 32.06879,
+    "longitude": 34.796905,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שדרות ההשכלה 26, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.066956,
+    "longitude": 34.793493,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "יונה קרמנצקי 1, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.067507,
+    "longitude": 34.768924,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רבינוביץ שפר 9",
+    "availableCars": 1,
+    "carsList": [
+      231
+    ]
+  },
+  {
+    "latitude": 32.06978,
+    "longitude": 34.79839,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ביצרון 37-39, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      133
+    ]
+  },
+  {
+    "latitude": 32.067037,
+    "longitude": 34.767475,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "קלישר 3, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.063478,
+    "longitude": 34.781764,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "דוד חכמי 14, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.069981,
+    "longitude": 34.763805,
+    "capacity": 3,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רציף הרברט סמואל 22, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      202
+    ]
+  },
+  {
+    "latitude": 32.067618,
+    "longitude": 34.797781,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ביצרון 21, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.06666,
+    "longitude": 34.76787,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "קלישר 5-7, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      97
+    ]
+  },
+  {
+    "latitude": 32.062973,
+    "longitude": 34.776415,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "לבונטין 28, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      101,
+      148
+    ]
+  },
+  {
+    "latitude": 32.0625,
+    "longitude": 34.781,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "אליאשברג, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.10427,
+    "longitude": 34.7963,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הרטגלס 5-15, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      121
+    ]
+  },
+  {
+    "latitude": 32.0617,
+    "longitude": 34.7844,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "יד חרוצים 17",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.064615,
+    "longitude": 34.795787,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "עמינדב 24, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0619,
+    "longitude": 34.7901,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "השלושה 7",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.107753,
+    "longitude": 34.793926,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "רדינג 31/33, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.062146,
+    "longitude": 34.790668,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "נירים 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.06109,
+    "longitude": 34.78017,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הגר\"א 2, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      147
+    ]
+  },
+  {
+    "latitude": 32.06119,
+    "longitude": 34.78355,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שבח 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.063111,
+    "longitude": 34.769903,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הרצל 6",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.068052,
+    "longitude": 34.802363,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דרך השלום 52, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      262
+    ]
+  },
+  {
+    "latitude": 32.106566,
+    "longitude": 34.797869,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ברודצקי 22, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.06745,
+    "longitude": 34.80262,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דרך השלום 60, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      1
+    ]
+  },
+  {
+    "latitude": 32.10729,
+    "longitude": 34.79725,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "סלוודור, תל אביב יפו, ישראל",
+    "availableCars": 2,
+    "carsList": [
+      51,
+      261
+    ]
+  },
+  {
+    "latitude": 32.06116,
+    "longitude": 34.77541,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "החשמל 8-10, תל אביב יפו, ישראל",
+    "availableCars": 2,
+    "carsList": [
+      164,
+      213
+    ]
+  },
+  {
+    "latitude": 32.110047,
+    "longitude": 34.79029,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "דב האוזנר 4, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.10638,
+    "longitude": 34.79945,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "גרונימן 15, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      252
+    ]
+  },
+  {
+    "latitude": 32.061717,
+    "longitude": 34.767103,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "פינס 29, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      216
+    ]
+  },
+  {
+    "latitude": 32.058374,
+    "longitude": 34.775729,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "לוינסקי 76, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0609,
+    "longitude": 34.7944,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שדרות יד לבנים פינת גליפולי, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.05834,
+    "longitude": 34.78269,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "איילת השחר 1-7, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      116
+    ]
+  },
+  {
+    "latitude": 32.1115,
+    "longitude": 34.78678,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אייזק שטרן 6-10, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      244
+    ]
+  },
+  {
+    "latitude": 32.1034,
+    "longitude": 34.8059,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "תחנת רכבת אוניברסיטה מזרח",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.059834,
+    "longitude": 34.772457,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "נחלת בנימין 82, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      13,
+      86
+    ]
+  },
+  {
+    "latitude": 32.107158,
+    "longitude": 34.802274,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ג'ורג' וויז ליד בניין מעונות דרום מערבי",
+    "availableCars": 1,
+    "carsList": [
+      123
+    ]
+  },
+  {
+    "latitude": 32.06342,
+    "longitude": 34.80187,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הורודצקי, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      271
+    ]
+  },
+  {
+    "latitude": 32.05871,
+    "longitude": 34.76966,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מטלון 12, תל אביב יפו, ישראל",
+    "availableCars": 2,
+    "carsList": [
+      65,
+      122
+    ]
+  },
+  {
+    "latitude": 32.056145,
+    "longitude": 34.781402,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "לוינסקי 119, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.1066,
+    "longitude": 34.8043,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שלום רוזנפלד, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.05845,
+    "longitude": 34.79439,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מרגולין 22, תל אביב יפו, ישראל",
+    "availableCars": 2,
+    "carsList": [
+      251,
+      259
+    ]
+  },
+  {
+    "latitude": 32.107998,
+    "longitude": 34.802707,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ד\"ר ג'ורג' וייז 20, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      158
+    ]
+  },
+  {
+    "latitude": 32.0572,
+    "longitude": 34.791699,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יגאל אלון 35, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      168
+    ]
+  },
+  {
+    "latitude": 32.055602,
+    "longitude": 34.783771,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון רכבת ההגנה",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.104012,
+    "longitude": 34.810347,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון גני יהושוע - מול מרכז הירידים",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.11307,
+    "longitude": 34.79647,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "איינשטיין 41, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      120
+    ]
+  },
+  {
+    "latitude": 32.114591,
+    "longitude": 34.791377,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "זריצקי 6, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.056237,
+    "longitude": 34.769956,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "פלורנטין 30, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      172
+    ]
+  },
+  {
+    "latitude": 32.06037,
+    "longitude": 34.76158,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ישיבת וולוז'ין 12-76, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      110
+    ]
+  },
+  {
+    "latitude": 32.058597,
+    "longitude": 34.8004,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "משה דיין 66, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.1132,
+    "longitude": 34.7959,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "טאגור 2",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.057382,
+    "longitude": 34.767238,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אברבנאל 29, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      207
+    ]
+  },
+  {
+    "latitude": 32.104231,
+    "longitude": 34.810422,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שדרות רוקח 100, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.05419,
+    "longitude": 34.79014,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "דרך ההגנה 67, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.059831,
+    "longitude": 34.760836,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון התחנה - קויפמן יחזקאל 65 (ליד עמדת התשלום)",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.116455,
+    "longitude": 34.787799,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אמיר גלבוע 12, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      268
+    ]
+  },
+  {
+    "latitude": 32.05608,
+    "longitude": 34.79533,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "טור מלכא 22, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      153
+    ]
+  },
+  {
+    "latitude": 32.057609,
+    "longitude": 34.7643,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "אליפלט 26 -28, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.112999,
+    "longitude": 34.79869,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "איינשטיין 58-56, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.054265,
+    "longitude": 34.78285,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "גולומב 62",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.111344,
+    "longitude": 34.801714,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "חיים לבנון 57 ",
+    "availableCars": 1,
+    "carsList": [
+      130
+    ]
+  },
+  {
+    "latitude": 32.055046,
+    "longitude": 34.767713,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ויטאל 20, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      6,
+      208
+    ]
+  },
+  {
+    "latitude": 32.11662,
+    "longitude": 34.79288,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שמואל תמיר 17, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      160
+    ]
+  },
+  {
+    "latitude": 32.1142,
+    "longitude": 34.8013,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חיים לבנון - אוניברסיטת תל אביב שער 8",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.05978,
+    "longitude": 34.80711,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דרך השלום 118, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      248
+    ]
+  },
+  {
+    "latitude": 32.056754,
+    "longitude": 34.760987,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "רוחמה 6, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.11804,
+    "longitude": 34.79126,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שרגא פרידמן, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      238
+    ]
+  },
+  {
+    "latitude": 32.05441,
+    "longitude": 34.79499,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "נגבה 14, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      258
+    ]
+  },
+  {
+    "latitude": 32.0534,
+    "longitude": 34.79401,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רשף 840, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      61
+    ]
+  },
+  {
+    "latitude": 32.1059,
+    "longitude": 34.8134,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון גני יהושוע -  מול הלונה פארק",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.111305,
+    "longitude": 34.807381,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "קלאוזנר- אוניברסיטת ת\"א מול שער 14, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.05151,
+    "longitude": 34.78655,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יקותיאל 1, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      204
+    ]
+  },
+  {
+    "latitude": 32.05096,
+    "longitude": 34.7816,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ישראל מסלנט 32, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      214
+    ]
+  },
+  {
+    "latitude": 32.11984,
+    "longitude": 34.79127,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שדרות לוי אשכול 102, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      81
+    ]
+  },
+  {
+    "latitude": 32.05318,
+    "longitude": 34.79927,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "דרך ההגנה 120, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.054935,
+    "longitude": 34.760619,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "דרך שלמה 5, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.117448,
+    "longitude": 34.797333,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "טאגור 38, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.113114,
+    "longitude": 34.807582,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "קלאוזנר- אוניברסיטה בית התפוצות, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.05018,
+    "longitude": 34.77496,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מאור הגולה 7-11, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      113
+    ]
+  },
+  {
+    "latitude": 32.050787,
+    "longitude": 34.771715,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שוקן 27, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.055198,
+    "longitude": 34.757884,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מרזוק ועזר 11, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      179
+    ]
+  },
+  {
+    "latitude": 32.04977,
+    "longitude": 34.78187,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "השילוח 2-12, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      239
+    ]
+  },
+  {
+    "latitude": 32.120495,
+    "longitude": 34.7926,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רודנסקי 6, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      195
+    ]
+  },
+  {
+    "latitude": 32.051976,
+    "longitude": 34.764434,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "שארית ישראל 37, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.11735,
+    "longitude": 34.80134,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "חיים לבנון 83, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      70
+    ]
+  },
+  {
+    "latitude": 32.05617,
+    "longitude": 34.80627,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דרך ההגנה 178, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      246
+    ]
+  },
+  {
+    "latitude": 32.05618,
+    "longitude": 34.80743,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דרך הטייסים 44, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      186
+    ]
+  },
+  {
+    "latitude": 32.05017,
+    "longitude": 34.79493,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "בועז 34, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      83
+    ]
+  },
+  {
+    "latitude": 32.11185,
+    "longitude": 34.81209,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "רפידים 20, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.048214,
+    "longitude": 34.77759,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "דרך קיבוץ גלויות 111, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.055719,
+    "longitude": 34.756039,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "העליה 8 ",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.11185,
+    "longitude": 34.81209,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שפע טל 1א, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      112
+    ]
+  },
+  {
+    "latitude": 32.04823,
+    "longitude": 34.79017,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רצון 8, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      63
+    ]
+  },
+  {
+    "latitude": 32.0502,
+    "longitude": 34.7986,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "קרייתי, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      188
+    ]
+  },
+  {
+    "latitude": 32.04784,
+    "longitude": 34.78306,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "כוכבי יצחק 5, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      152
+    ]
+  },
+  {
+    "latitude": 32.116362,
+    "longitude": 34.807152,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "קלאוזנר- אוניברסיטת ת\"א שער 1",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.12123,
+    "longitude": 34.79933,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רבינא 12, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      102
+    ]
+  },
+  {
+    "latitude": 32.053587,
+    "longitude": 34.755045,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "עמיעד 8, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      257
+    ]
+  },
+  {
+    "latitude": 32.12047,
+    "longitude": 34.800318,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אופנהיימר 13, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      218
+    ]
+  },
+  {
+    "latitude": 32.053555,
+    "longitude": 34.753245,
+    "capacity": 3,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הצורפים, תל אביב יפו",
+    "availableCars": 3,
+    "carsList": [
+      2,
+      93,
+      193
+    ]
+  },
+  {
+    "latitude": 32.04558,
+    "longitude": 34.77848,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הקנאים 4-8, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      127
+    ]
+  },
+  {
+    "latitude": 32.11574,
+    "longitude": 34.81208,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רפידים 40, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      266
+    ]
+  },
+  {
+    "latitude": 32.124,
+    "longitude": 34.7917,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "קדושי השואה 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.052487,
+    "longitude": 34.756501,
+    "capacity": 3,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יהודה מרגוזה 11, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      73
+    ]
+  },
+  {
+    "latitude": 32.04582,
+    "longitude": 34.78139,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הכינור 1-7, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      138
+    ]
+  },
+  {
+    "latitude": 32.111722,
+    "longitude": 34.816493,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "בני אפרים 206, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.109362,
+    "longitude": 34.81926,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הדר יוסף 11, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.107032,
+    "longitude": 34.821409,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שלום אש 9, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      150
+    ]
+  },
+  {
+    "latitude": 32.05329,
+    "longitude": 34.81017,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מעפילי אגוז 59, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      60
+    ]
+  },
+  {
+    "latitude": 32.050298,
+    "longitude": 34.757023,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מגן אברהם 17, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      3,
+      157
+    ]
+  },
+  {
+    "latitude": 32.12403,
+    "longitude": 34.79606,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אברהם בויאר 9, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      111
+    ]
+  },
+  {
+    "latitude": 32.05091,
+    "longitude": 34.75684,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "נועם 10, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      185
+    ]
+  },
+  {
+    "latitude": 32.11827,
+    "longitude": 34.81208,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "תל ברוך 7, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      76
+    ]
+  },
+  {
+    "latitude": 32.11004,
+    "longitude": 34.82203,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "קהילת ורשה 56, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      221
+    ]
+  },
+  {
+    "latitude": 32.044725,
+    "longitude": 34.767288,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "גרינבוים 4-2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.04406,
+    "longitude": 34.76987,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דרך בן צבי 73, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      80
+    ]
+  },
+  {
+    "latitude": 32.12685,
+    "longitude": 34.79245,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "קדושי השואה 18-20, תל אביב יפו, ישראל",
+    "availableCars": 2,
+    "carsList": [
+      124,
+      126
+    ]
+  },
+  {
+    "latitude": 32.114,
+    "longitude": 34.8188,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "קהילת קיוב 3, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.05091,
+    "longitude": 34.75364,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אברהם אבן שושן 1-3, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      74
+    ]
+  },
+  {
+    "latitude": 32.047511,
+    "longitude": 34.759492,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "עזה 32",
+    "availableCars": 2,
+    "carsList": [
+      125,
+      234
+    ]
+  },
+  {
+    "latitude": 32.050287,
+    "longitude": 34.752289,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "יהודה הימית 40-42, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.05145,
+    "longitude": 34.81344,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דרך הטייסים 78-94, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      190
+    ]
+  },
+  {
+    "latitude": 32.1243,
+    "longitude": 34.8028,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "רקנאטי 12, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0421,
+    "longitude": 34.779484,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ישראל גורי 27, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      134
+    ]
+  },
+  {
+    "latitude": 32.051513,
+    "longitude": 34.749902,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "נמל יפו 16",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.125093,
+    "longitude": 34.801667,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "אבא אחימאיר 17, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.04827,
+    "longitude": 34.80994,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שדרות ששת הימים 29-31, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      136
+    ]
+  },
+  {
+    "latitude": 32.04981,
+    "longitude": 34.81339,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מח\"ל 91, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      78
+    ]
+  },
+  {
+    "latitude": 32.12793,
+    "longitude": 34.79886,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מאיר פיינשטיין 1, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      118
+    ]
+  },
+  {
+    "latitude": 32.04852,
+    "longitude": 34.75075,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שערי ניקנור 13, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      149
+    ]
+  },
+  {
+    "latitude": 32.04409,
+    "longitude": 34.80421,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "בירנית 18-16, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.12817,
+    "longitude": 34.7981,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שלמה בן יוסף 27, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      212
+    ]
+  },
+  {
+    "latitude": 32.0462,
+    "longitude": 34.81037,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רוטנשטרייך 1-5, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      117
+    ]
+  },
+  {
+    "latitude": 32.113723,
+    "longitude": 34.82452,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "קהילת סלוניקי 9, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.11459,
+    "longitude": 34.82304,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "קהילת ונציה 12-14, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      211
+    ]
+  },
+  {
+    "latitude": 32.12786,
+    "longitude": 34.80074,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מאיר פיינשטיין 10, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      182
+    ]
+  },
+  {
+    "latitude": 32.04527,
+    "longitude": 34.75625,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שמואל ירחינאי 7, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      105
+    ]
+  },
+  {
+    "latitude": 32.11326,
+    "longitude": 34.82443,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "קהילת סלוניקי 11, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      176
+    ]
+  },
+  {
+    "latitude": 32.1223,
+    "longitude": 34.81404,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יוסף מילוא 21-25, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      91
+    ]
+  },
+  {
+    "latitude": 32.130074,
+    "longitude": 34.791931,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אורי צבי גרינברג 25, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      161,
+      243
+    ]
+  },
+  {
+    "latitude": 32.13109,
+    "longitude": 34.79201,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אורי צבי גרינברג 21, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      267
+    ]
+  },
+  {
+    "latitude": 32.12718,
+    "longitude": 34.8065,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יחיאל דב דרזנר 57, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      255
+    ]
+  },
+  {
+    "latitude": 32.040491,
+    "longitude": 34.76562,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "גרינבוים 43, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.1183,
+    "longitude": 34.82123,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "למדן 8, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      64
+    ]
+  },
+  {
+    "latitude": 32.04593,
+    "longitude": 34.75053,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הראובני 18, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      100
+    ]
+  },
+  {
+    "latitude": 32.119821,
+    "longitude": 34.821159,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "לאה גולדברג 16, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      145,
+      210
+    ]
+  },
+  {
+    "latitude": 32.106567,
+    "longitude": 34.832598,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ראול ולנברג 3, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.0464,
+    "longitude": 34.81399,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דרך הטייסים 14, רמת גן, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      192
+    ]
+  },
+  {
+    "latitude": 32.122292,
+    "longitude": 34.818229,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חנה רובינא 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.12289,
+    "longitude": 34.81805,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "סטפן צווייג 16, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      66
+    ]
+  },
+  {
+    "latitude": 32.12055,
+    "longitude": 34.8217,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אלתרמן 24-28, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      108
+    ]
+  },
+  {
+    "latitude": 32.12172,
+    "longitude": 34.82043,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יוכבד בת מרים 17, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      144
+    ]
+  },
+  {
+    "latitude": 32.110506,
+    "longitude": 34.83111,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "משמר הירדן 41, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.04436,
+    "longitude": 34.75027,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אחילוף 13, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      230
+    ]
+  },
+  {
+    "latitude": 32.11936,
+    "longitude": 34.82327,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "מנורה 1-5, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      249
+    ]
+  },
+  {
+    "latitude": 32.12107,
+    "longitude": 34.82244,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אלתרמן 27-29, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      162
+    ]
+  },
+  {
+    "latitude": 32.03893,
+    "longitude": 34.76075,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הגיחון 7, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      7
+    ]
+  },
+  {
+    "latitude": 32.04068,
+    "longitude": 34.75543,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ציהתל\\\"י 44-50, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      77
+    ]
+  },
+  {
+    "latitude": 32.12326,
+    "longitude": 34.81876,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יעקב מרידור 4, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      219
+    ]
+  },
+  {
+    "latitude": 32.10636,
+    "longitude": 34.83476,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון רידינג, תחנה 1, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.107238,
+    "longitude": 34.83433,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ראול ולנברג 2, תל אביב יפו, אזור תל אביב",
+    "availableCars": 1,
+    "carsList": [
+      79
+    ]
+  },
+  {
+    "latitude": 32.10636,
+    "longitude": 34.83476,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הברזל 2, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.10961,
+    "longitude": 34.83304,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הרוגי מלכות 9, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      236
+    ]
+  },
+  {
+    "latitude": 32.0369,
+    "longitude": 34.7625,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "חניון הלוחמים, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.11267,
+    "longitude": 34.83258,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "משמר הירדן 69, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      75
+    ]
+  },
+  {
+    "latitude": 32.10781,
+    "longitude": 34.83784,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הברזל 15, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.11261,
+    "longitude": 34.83397,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "נמירובר 23-27, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      260
+    ]
+  },
+  {
+    "latitude": 32.109027,
+    "longitude": 34.836621,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ראול ולנברג 14, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.10781,
+    "longitude": 34.83784,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אוניברסיטת תל אביב, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      88
+    ]
+  },
+  {
+    "latitude": 32.13591,
+    "longitude": 34.79733,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שושנה פרסיץ 7-15, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      209
+    ]
+  },
+  {
+    "latitude": 32.04161,
+    "longitude": 34.74862,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שתי האחיות, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      103
+    ]
+  },
+  {
+    "latitude": 32.13565,
+    "longitude": 34.79669,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שושנה פרסיץ 7-15, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      154
+    ]
+  },
+  {
+    "latitude": 32.11084,
+    "longitude": 34.83495,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "עולי הגרדום 5-13, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      155
+    ]
+  },
+  {
+    "latitude": 32.11279,
+    "longitude": 34.83492,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דוד טריטש 13, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      92
+    ]
+  },
+  {
+    "latitude": 32.04047,
+    "longitude": 34.74876,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דונולו הרופא 5-9, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      96
+    ]
+  },
+  {
+    "latitude": 32.12226,
+    "longitude": 34.82689,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "צה\\\"ל 12, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      142
+    ]
+  },
+  {
+    "latitude": 32.111376,
+    "longitude": 34.837037,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הגולן 94-92, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.035393,
+    "longitude": 34.75873,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "סומקן 34, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.03884,
+    "longitude": 34.74942,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "האתרוג 20-24, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      159
+    ]
+  },
+  {
+    "latitude": 32.11366,
+    "longitude": 34.83613,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דוד מרכוס 20, תל אביב יפו, ישראל",
+    "availableCars": 2,
+    "carsList": [
+      68,
+      95
+    ]
+  },
+  {
+    "latitude": 32.12957,
+    "longitude": 34.81973,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "קרית שאול 22, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      200
+    ]
+  },
+  {
+    "latitude": 32.03507,
+    "longitude": 34.75515,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הרב רובינשטיין 10-12, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      233
+    ]
+  },
+  {
+    "latitude": 32.03453,
+    "longitude": 34.7577,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "נרדור 12, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      115
+    ]
+  },
+  {
+    "latitude": 32.139294,
+    "longitude": 34.792075,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "רוזנבלום פינת סאמט בכניסה לרחוב צד מערב",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.11929,
+    "longitude": 34.83193,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אוסקר שינדלר 21-39, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      174
+    ]
+  },
+  {
+    "latitude": 32.12457,
+    "longitude": 34.82855,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "שדרות רוטשילד 65, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      151
+    ]
+  },
+  {
+    "latitude": 32.1097,
+    "longitude": 34.8408,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הברזל 28",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.14086,
+    "longitude": 34.79121,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "2170, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      264
+    ]
+  },
+  {
+    "latitude": 32.12421,
+    "longitude": 34.83012,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אבוקה 12, תל אביב יפו, ישראל",
+    "availableCars": 2,
+    "carsList": [
+      90,
+      187
+    ]
+  },
+  {
+    "latitude": 32.111506,
+    "longitude": 34.840876,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "הארד 7, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.11378,
+    "longitude": 34.84007,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "ראול ולנברג, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      137
+    ]
+  },
+  {
+    "latitude": 32.121978,
+    "longitude": 34.834448,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "יהונתן 1, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      156
+    ]
+  },
+  {
+    "latitude": 32.1138,
+    "longitude": 34.8418,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "דבורה הנביאה 124 ",
+    "availableCars": 4,
+    "carsList": [
+      114,
+      143,
+      170,
+      183
+    ]
+  },
+  {
+    "latitude": 32.11943,
+    "longitude": 34.8381,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אח\"י דקר 31, תל אביב יפו, ישראל",
+    "availableCars": 2,
+    "carsList": [
+      225,
+      263
+    ]
+  },
+  {
+    "latitude": 32.11757,
+    "longitude": 34.83971,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הצנחנים 8, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      228
+    ]
+  },
+  {
+    "latitude": 32.12621,
+    "longitude": 34.83048,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "אלכסנדר סשה ארגוב 18-20, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      229
+    ]
+  },
+  {
+    "latitude": 32.117818,
+    "longitude": 34.839188,
+    "capacity": 2,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הצנחנים 2, תל אביב יפו",
+    "availableCars": 2,
+    "carsList": [
+      4,
+      272
+    ]
+  },
+  {
+    "latitude": 32.143248,
+    "longitude": 34.79234,
+    "capacity": 4,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "חוף הצוק, תל אביב יפו",
+    "availableCars": 1,
+    "carsList": [
+      104
+    ]
+  },
+  {
+    "latitude": 32.113535,
+    "longitude": 34.84241,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "דבורה הנביאה 115, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.127629,
+    "longitude": 34.831681,
+    "capacity": 2,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "לוין קיפניס 6, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.116782,
+    "longitude": 34.843358,
+    "capacity": 3,
+    "activeCarHere": false,
+    "inactive": false,
+    "parkingAddress": "ראול ולנברג 41, תל אביב יפו",
+    "availableCars": 0,
+    "carsList": []
+  },
+  {
+    "latitude": 32.12008,
+    "longitude": 34.84166,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "רמה 9, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      226
+    ]
+  },
+  {
+    "latitude": 32.12275,
+    "longitude": 34.84021,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "הפרסה 50-54, תל אביב יפו, ישראל",
+    "availableCars": 1,
+    "carsList": [
+      132
+    ]
+  },
+  {
+    "latitude": 32.12027,
+    "longitude": 34.84299,
+    "capacity": null,
+    "activeCarHere": true,
+    "inactive": false,
+    "parkingAddress": "כורזים 6, תל אביב יפו, ישראל",
+    "availableCars": 3,
+    "carsList": [
+      178,
+      203,
+      240
+    ]
+  }
+]
